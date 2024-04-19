@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/datasets/cleaned_data/olist_customers_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_geolocation_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_order_items_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_order_payments_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_order_reviews_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_orders_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_products_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/olist_sellers_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/cleaned_data/product_category_name_translation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/original_dataset/olist_geolocation_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/original_dataset/olist_order_items_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/original_dataset/olist_order_payments_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/original_dataset/olist_orders_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/datasets/original_dataset/olist_products_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

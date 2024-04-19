@@ -1,0 +1,35 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+n
+>Data Cleaning and Transformation/Cleaning&Transformation.ipynb,8/2/821d545e6ad01a202241f29b7140c58b1bdcc770
+c
+3datasets/cleaned_data/olist_geolocation_dataset.csv,a/8/a872696472828f9b2d6f068d983ec3ba5933790c
+R
+"SQL scripts/create table mySQL.sql,d/f/dfbb7c5160898405518f1e6f15eabe711e6c26ef
+e
+5datasets/cleaned_data/olist_order_reviews_dataset.csv,e/5/e5ef72d765831ba4bb43c0c6c1e170b2fde3ffca
+^
+.datasets/cleaned_data/olist_orders_dataset.csv,7/7/77090955d5043b8c267ad8a8717531699ee36df0
+c
+3datasets/cleaned_data/olist_order_items_dataset.csv,0/2/02c1be56340d95c096c1054beb58c77ef59cd895
+`
+0datasets/cleaned_data/olist_products_dataset.csv,9/d/9debfa2f189dc0fefe17d084e5f3dc7afcaa8b9d
+f
+6datasets/cleaned_data/olist_order_payments_dataset.csv,4/e/4e8775aac62831af3578521feffd72c137967460
+a
+1datasets/cleaned_data/olist_customers_dataset.csv,c/4/c47df84ca3c1db4e139a01d476324ead18cbebce
+j
+:datasets/original_dataset/olist_order_payments_dataset.csv,3/6/36db04d8fa9b66b7d4a303381b2710512a074b8e
+g
+7datasets/original_dataset/olist_geolocation_dataset.csv,9/3/938a129f04e920d1a5816d2cfca5a7c4e0ce3271
+g
+7datasets/original_dataset/olist_order_items_dataset.csv,b/4/b44fc51eddf8a2c9d8ea9883566c47bc843aae3f
+_
+/datasets/cleaned_data/olist_sellers_dataset.csv,5/b/5b81b80966f33fb0018db65e5d8b6d26911012d7
+b
+2datasets/original_dataset/olist_orders_dataset.csv,7/d/7ddd23f625e54850e349c21604b770fd46d93290
+d
+4datasets/original_dataset/olist_products_dataset.csv,9/1/91497853f8b29cf8bf90017e6cefa08b814d1f47
+k
+;datasets/cleaned_data/product_category_name_translation.csv,1/4/14d97a819c4914534c62ebd346040865fb4b694d
