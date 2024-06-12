@@ -53,14 +53,13 @@ This project aims to analyze Brazilian e-commerce data to gain insights into sal
 - **documentation:** Contains project documentation, reports, and presentation slides.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your_username/brazilian-ecommerce-analysis.git`
-2. Navigate to the project directory: `cd brazilian-ecommerce-analysis`
+1. Clone the repository: `git clone https://github.com/hasanmd1/data-analysis-science-engineering-projects/eCommerce Analysis & Prediction.git`
+2. Navigate to the project directory: `cd eCommerce\ Analysis\ &\ Prediction`
 3. Open and run the scripts in your preferred tools (Excel, SQL client, Jupyter Notebook, etc.).
 4. Explore the documentation and presentation files for detailed insights.
 
 ## Contributors
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
+- Zahid Hasan (@hasanmd1)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
