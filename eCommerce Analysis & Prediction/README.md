@@ -45,7 +45,7 @@ This project does not cover data engineering pipeline design and db optimization
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/hasanmd1/data-analysis-science-engineering-projects.git`
-2. Navigate to the project directory: `cd eCommerce\ Analysis\ &\ Prediction`
+2. Navigate to the project directory: `cd eCommerce\ Analysis\ \&\ Prediction`
 3. Open and run the scripts in your preferred tools (Excel, SQL client, Jupyter Notebook, etc.).
 4. Explore the documentation and presentation files for detailed insights.
 
