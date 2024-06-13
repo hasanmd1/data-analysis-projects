@@ -3,6 +3,8 @@
 ## Overview
 This project aims to analyze + visualize Brazilian e-commerce data to gain insights into sales trends, customer behavior, and product performance. The dataset comprises 7 CSV files containing information about orders, customers, products, and reviews.
 
+This project does not cover data engineering pipeline design and db optimization. For that checkout our other project of financial currency analysis.
+
 ## Tools Used
 - Excel: Initial data exploration and basic cleaning.
 - SQL: Data cleaning, integration, storing, and preprocessing.
@@ -23,11 +25,11 @@ This project aims to analyze + visualize Brazilian e-commerce data to gain insig
    - Use SQL for basic summary statistics.
    - Utilize Python/R for in-depth EDA, exploring distributions, correlations, and trends.
 
-3. **Advanced Analysis and Modeling (Optional)**
+3. **Advanced Analysis, Machine Learning Model Design and Modeling (Optional)**
    - Apply statistical analysis or machine learning techniques using Python/R for deeper insights or predictive modeling.
 
 4. **Data Visualization**
-   - Create visualizations using Tableau/Power BI to represent insights effectively.
+   - Create visualizations using Tableau && Power BI to represent insights effectively.
    - Utilize Python/R for customized visualizations to showcase key findings.
 
 5. **Documentation, Presentation and Reporting**
